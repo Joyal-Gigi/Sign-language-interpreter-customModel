@@ -13,7 +13,8 @@ Ensemble learning, in general, is a model that makes predictions based on a numb
 
 
 CODE explanation
-						#dataset creation
+						
+      #dataset creation
 
 Configures mediapipe for hand tracking.
 
